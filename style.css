@@ -1,0 +1,118 @@
+    * {
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    .nav {
+        background-color: orange;
+        display: flex;
+        justify-content: space-around;
+    }
+    
+    .nav ul {
+        list-style: none;
+        display: flex;
+        justify-content: space-around;
+        color: black;
+        width: 50%;
+        align-items: center;
+        font-family: sans-serif;
+    }
+    
+    h2 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: aqua;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    
+    h2 img {
+        height: 49px;
+        margin-left: 10px;
+    }
+    
+    .main {
+        background-color: red;
+        padding: 15px;
+        display: flex;
+        justify-content: space-evenly;
+    }
+    
+    .header {
+        color: black;
+        border-radius: 25px;
+        font-size: 33px;
+        font-family: 'Courier New', Courier, monospace;
+        text-align: center;
+    }
+    
+    p {
+        background-color: cyan;
+        border-radius: 25px;
+    }
+    
+    .box-1 {
+        background-color: yellow;
+        border-radius: 25px;
+        width: 320px;
+        height: 500px;
+        margin: 15px;
+        padding: 5px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .box-1 img {
+        height: 142px;
+    }
+    
+    .box-2 {
+        background-color: goldenrod;
+        border-radius: 25px;
+        width: 320px;
+        height: 500px;
+        margin: 15px;
+        padding: 5px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .box-2 img {
+        height: 140px;
+    }
+    
+    .box-3 {
+        background-color: orange;
+        border-radius: 25px;
+        width: 320px;
+        height: 500px;
+        margin: 15px;
+        padding: 5px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .box-3 img {
+        height: 140px;
+    }
+    
+    .btn {
+        display: flex;
+        justify-content: space-around;
+        margin: 10px;
+        padding: 10px;
+        background-color: white;
+        border-radius: 25px;
+    }
+    
+    button {
+        border-radius: 25px;
+        width: 120px;
+    }
+    
+    .footer {
+        background-color: cyan;
+        text-align: center;
+        height: 500px;
+    }
